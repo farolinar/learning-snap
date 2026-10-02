@@ -1,0 +1,11 @@
+# Generated key material — never commit private keys.
+/keys/
+
+# Local environment
+.env
+
+# Build output
+/bin/
+mockserver
+snapclient
+snapkeys
